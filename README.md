@@ -1,2 +1,1 @@
-# Marvel_Analysis_Scripts
-Bash scripts for pre-processing the primary data
+# Bash script for spliting BAM sile by Cell Barcodes 
