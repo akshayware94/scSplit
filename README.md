@@ -1,1 +1,1 @@
-# Bash script for spliting BAM sile by Cell Barcodes 
+# Bash script for spliting BAM file by cell barcodes (CB) 
