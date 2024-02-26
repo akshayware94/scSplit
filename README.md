@@ -13,20 +13,13 @@ If the above prerequisites are satisfied, you are ready to install conda package
 
 To obtain *scSplit*, Use: <br />
 ```
-git clone https://github.com/msls-bioinfo/CmiRClustFinder_v1.0.git
+git clone https://github.com/akshayware94/scSplit.git
 cd scSplit/
-```
-or 
-<br/>
-```
-wget https://github.com/msls-bioinfo/CmiRClustFinder_v1.0/archive/refs/heads/main.zip
-unzip scSplit.zip
-cd CmiRClustFinder_v1.0-main/
 ```
 Assuming that you have downloaded the source code and it is in a directory `scSplit/`, to install all dependencies run the following command: <br />
 
 ```
 mamba env create -f requirements.yml
 ```
-After the successful execution of `install.sh` you are ready to run the main pipeline script `CmiRClustFinder.r` which is located in `RScript/` directory
+After the successful execution of `requirements.yml` you are ready to run the main script `scSplit.sh`.
 
