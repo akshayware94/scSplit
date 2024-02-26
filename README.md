@@ -1,6 +1,7 @@
 # Bash script for spliting BAM file by cell barcodes (CB) 
 ## Overview
 
+The bash script is developed to split the scRNASeq generated BAM file based on individual cell barcode (CB).
 
 
 ## Getting Started
