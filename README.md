@@ -7,6 +7,6 @@ The Bash script is created to divide the BAM file generated from single-cell RNA
 
 #### Prerequisite
   ```
-   Please make sure the `Conda` is installed and available on your system prior to run the `requirements.yml`.<br />
+   Please make sure the `Conda` is installed and available on your system prior to run the *requirements.yml*.<br />
 
   ```
