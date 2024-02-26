@@ -1,4 +1,4 @@
-# Bash script for spliting BAM file by cell barcodes (CB)
+# scSplit: Program for spliting BAM file by cell barcodes (CB)
 ## Overview
 
 The Bash script is created to divide the BAM file generated from single-cell RNA sequencing (scRNASeq) according to individual cell barcodes (CB). Additionally, the program conts the reads mapping to user-specified genomic coordinates.
