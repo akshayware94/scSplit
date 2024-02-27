@@ -23,3 +23,4 @@ mamba env create -f requirements.yml
 ```
 After the successful execution of `requirements.yml` you are ready to run the main script `scSplit.sh`.
 
+
