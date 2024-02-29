@@ -2,6 +2,7 @@
 ## Overview
 
 The Bash script is created to divide the BAM file generated from single-cell RNA sequencing (scRNASeq) according to individual cell barcodes (CB). Additionally, the program counts the reads mapping to user-specified genomic coordinates.
+This program is also utilized to compute the intron coverage which is required to run the tools for alternative splicing analysis such as, [MARVEL] (https://wenweixiong.github.io/MARVEL_Plate.html)
 
 ## Getting Started
 
