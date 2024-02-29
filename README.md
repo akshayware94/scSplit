@@ -36,7 +36,7 @@ conda activate scSplit
 ```
 bash scSplit.sh [-f] [-b] [-c] [-g] [-n]
 
-	-f Provide BAM file scRNASeq run
+	-f Provide BAM file from scRNASeq run
 	-b Provide text file conatin list of barcode, one barcode per line
 	-c Provide BED file conatin chromosome coordinates (user specified genomic regions)
 	-g This File contain, first column consists of the chromosome name (chr1, chr2, chr3…) and the second column consists of the chromosome size or length
