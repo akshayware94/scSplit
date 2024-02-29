@@ -43,3 +43,7 @@ bash scSplit.sh [-f] [-b] [-c] [-g] [-n]
 
 ```
 
+#### Input files
+
+The demo data is containing a BAM file with aligned reads for 5 barcodes given here.
+
